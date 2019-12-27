@@ -1,0 +1,2 @@
+1) ANOVA test is an initial run. I switched to Mutual Information. I have mentioned about this in the report that why I did that.
+2) Please check Mutual info.ipynb after this because this is the main.
