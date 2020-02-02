@@ -1,6 +1,6 @@
 # Feature-Engineering
 
-                                                              #Introduction
+# Introduction
 
 
 In this case study, we are given a dataset of patients who have suffered from Spinal Cord Injury (SCI). Now, post SCI, patients have a tendency of developing Central Neuropathic Pain. It has been recorded that almost 50% of such cases show symptoms of this pain. What more of a problem is, there is no cure but prevention. Early detection is required to provide with selective treatments because the treatment medication has strong side effects. Therefore, data science can play its role in predicting whether a patient will show such symptoms or not.  
